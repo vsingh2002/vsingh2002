@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishal-singh2002)
-- ✉️ Email me at: `vishalkumarsinghv60@gmail.com`
+- ✉️ Email me at: `vishalkumarsinghv91@gmail.com`
 
 ### ⚡ Fun Fact
 - I'm always looking for ways to make code efficient, and I love solving complex problems through programming!
