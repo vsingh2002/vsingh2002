@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 🌱 What I'm Currently Learning
 - Diving deeper into **advanced Java frameworks** like **Spring Boot** and **Hibernate**
-- Expanding my skills in **backend development** and **full-stack web development**
+- Expanding my skills in **backend development** and **full-stack Java development**
 
 ### 🔭 Currently Working On
 - Developing projects using **Java**, **Spring Boot**, and **Hibernate**
